@@ -1,0 +1,1 @@
+# singleinherit.cpp
